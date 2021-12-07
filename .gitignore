@@ -1,5 +1,6 @@
-cache
-cache-downloads
-inspector
-api
-source/inspector.html
+venv/*
+Forecasting/venv/*
+Forecasting/__pycache__/*
+IoT_platform/IoT_platform/__pycache__/*
+IoT_platform/database/__pycache__/*
+IoT_platform/database/migrations/*
