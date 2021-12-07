@@ -1,0 +1,5 @@
+django==3.2
+django-cors-headers==3.10
+djangorestframework==3.12.4
+djangorestframework-jsonapi==4.2.1
+
